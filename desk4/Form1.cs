@@ -43,5 +43,10 @@ namespace desk3
         {
             listBox1.Items.Clear();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
